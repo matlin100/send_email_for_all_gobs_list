@@ -1,0 +1,9 @@
+2024-03-01 18:47:21,705 - INFO - Starting to send email from your_email@gmail.com to 8300142@gmail.com
+2024-03-01 18:47:22,796 - ERROR - Failed to send email to 8300142@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials bj12-20020a0560001e0c00b0033db0bbc2ccsm5436609wrb.3 - gsmtp')
+2024-03-01 18:47:22,876 - INFO - SMTP server connection closed
+2024-03-01 18:51:19,596 - INFO - Starting to send email from your_email@gmail.com to 8300142@gmail.com
+2024-03-01 18:51:20,826 - ERROR - Failed to send email to 8300142@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials bi19-20020a05600c3d9300b00412ca030252sm1883863wmb.30 - gsmtp')
+2024-03-01 18:51:20,910 - INFO - SMTP server connection closed
+2024-03-01 19:04:23,790 - INFO - Starting to send email from your_email@gmail.com to 8300142@gmail.com
+2024-03-01 19:04:24,938 - ERROR - Failed to send email to 8300142@gmail.com: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials n6-20020a05600c4f8600b0041273fc463csm9245473wmq.17 - gsmtp')
+2024-03-01 19:04:25,018 - INFO - SMTP server connection closed
