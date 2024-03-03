@@ -9,7 +9,7 @@ this script send message to a list of emails, created for send emails to tils of
 ## Installation
 make sore you have installed python 3 and latest on your PC
 
-clon / fork the repository 
+clone / fork the repository 
 
 run pip install python-dotenv
 run pip install email-validator
@@ -20,7 +20,7 @@ GMAIL_USER=your_email@gmail.com
 GMAIL_APP_PASSWORD=yourapppassword
 
 sometimes you will need to create a special password key for Third party applications on google security and pass the password key that provided by google to the .env password 
-navigating to https://myaccount.google.com/security.>Enable 2-Step Verification (if you haven’t already):>back to the security page (https://myaccount.google.com/security).>Scroll down to the “Signing in to Google” section.>
+navigating to https://myaccount.google.com/security > Enable 2-Step Verification (if you haven’t already):>back to the security page (https://myaccount.google.com/security).>Scroll down to the “Signing in to Google” section.>
 Find “App passwords” and click on it.> and set a new password 
 
 
