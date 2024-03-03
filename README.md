@@ -27,19 +27,21 @@ pip install python-dotenv email-validator
 GMAIL_USER=your_email@gmail.com
 GMAIL_APP_PASSWORD=your_app_password
 
-### Steps Password
+### Steps to Create an App Password
 
 1. **Navigate to Google Security Settings**:
-- Access your Google Account security settings by visiting [Google Security Settings](https://myaccount.google.com/security).
+   - Access your Google Account security settings by visiting [Google Security Settings](https://myaccount.google.com/security).
 
 2. **Enable 2-Step Verification**:
-- If not already enabled, turn on 2-Step Verification to add an additional layer of security to your account.
+   - If not already enabled, turn on 2-Step Verification to add an additional layer of security to your account.
 
 3. **Generate a New App Password**:
-- Return to the Security page, scroll down to find the “App passwords” section, and generate a new password. This is necessary if you are using 2-Step Verification.
+   - Return to the Security page, scroll down to find the “App passwords” section, and generate a new password. This is necessary if you are using 2-Step Verification.
 
 4. **Update Your .env File**:
-- Insert the generated password into your .env file under the variable `GMAIL_APP_PASSWORD`.
+   - Insert the generated password into your `.env` file under the variable `GMAIL_APP_PASSWORD`.
+
+Please ensure to keep your app passwords secure and never share them publicly.
 
 ### Setup Email List
 
