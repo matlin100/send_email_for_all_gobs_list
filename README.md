@@ -52,15 +52,13 @@ GMAIL_APP_PASSWORD=your_app_password
     ...
 ]
 
-Add a CV PDF to Emails
+```
+### add cv pdf to email 
+if you what to send CV pdf file >
+add your SV to the ./data folder and rename it to CV.pdf > ./data/CV.pdf
+## run
+run the main file and it will send the emails to all
+it will print the list of successful emails 
+and unsuccessful emails 
 
-If you want to send a CV PDF file:
 
-	1.	Add your CV to the ./data folder and rename it to CV.pdf (./data/CV.pdf).
-
-Run
-
-Execute the main file, and it will send the emails to all addresses listed:
-
-	•	It will print the list of successfully sent emails.
-	•	It will also list any unsuccessful email attempts.
