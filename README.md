@@ -20,21 +20,25 @@ create an .env file for stot your email and password
 GMAIL_USER=your_email@gmail.com
 GMAIL_APP_PASSWORD=yourapppassword
 
-App Password Creation: Generate a unique password for third-party applications through your Google Security settings:
-	•	Navigate to Google Security Settings.
-	•	Enable 2-Step Verification (if not already enabled).
-	•	Return to the Security page, find “App passwords”, and generate a new password.
-	•	Insert the generated password into your .env file under GMAIL_APP_PASSWORD.
- 
+### Steps Password
+1. **Navigate to Google Security Settings**
+   - Access your Google Account security settings by visiting [Google Security Settings](https://myaccount.google.com/security).
+2. **Enable 2-Step Verification**
+   - If not already enabled, turn on 2-Step Verification to add an additional layer of security to your account.
+3. **Generate a New App Password**
+   - Return to the Security page, scroll down to find the “App passwords” section, and generate a new password. This is necessary if you are using 2-Step Verification.
+4. **Update Your .env File**
+   - Insert the generated password into your .env file under the variable `GMAIL_APP_PASSWORD`.
 
+### setup email list
 crate in ./data file data.json > ./data/data.json
 in data.json put your email list in this structure
 [
     {"emailAddress": "8300142@gmail.com"},
     {"emailAddress": "8300142@gmail.com"},
     {.......}...
-[
 
+### add cv pdf to email 
 if you what to send CV pdf file >
 add your SV to the ./data folder and rename it to CV.pdf > ./data/CV.pdf
 ## run
