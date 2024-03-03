@@ -55,10 +55,14 @@ GMAIL_APP_PASSWORD=your_app_password
 ```
 ### add cv pdf to email 
 if you what to send CV pdf file >
-add your SV to the ./data folder and rename it to CV.pdf > ./data/CV.pdf
+add your SV to the ./data folder and rename it to CV.pdf > ./data/CV.
 ## run
 run the main file and it will send the emails to all
 it will print the list of successful emails 
 and unsuccessful emails 
+
+pdf
+##helpers 
+if needed you can import from the helpers folder function to check if email is valid and remove duplicate emails 
 
 
