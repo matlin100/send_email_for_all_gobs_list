@@ -55,9 +55,11 @@ Please ensure to keep your app passwords secure and never share them publicly.
 ]
 
 ```
-### add cv pdf to email 
-if you what to send CV pdf file >
-add your SV to the ./data folder and rename it to CV.pdf > ./data/CV.
+### Add CV PDF to Email
+
+If you want to send a CV PDF file:
+- Add your CV to the `./data` folder.
+- Rename it appropriately (typically to `CV.pdf`) to ensure consistency and easy identification. The path should then be `./data/CV.pdf`. to CV.pdf > ./data/CV.
 ## run
 run the main file and it will send the emails to all
 it will print the list of successful emails 
