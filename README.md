@@ -27,7 +27,7 @@ pip install python-dotenv email-validator
 GMAIL_USER=your_email@gmail.com
 GMAIL_APP_PASSWORD=your_app_password
 
-### Steps to Create an App Password
+### Steps Password
 
 1. **Navigate to Google Security Settings**:
 - Access your Google Account security settings by visiting [Google Security Settings](https://myaccount.google.com/security).
