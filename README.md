@@ -10,9 +10,9 @@ this script send message to a list of emails, created for send emails to tils of
 make sore you have installed python 3 and latest on your PC
 
 clone / fork the repository 
-run > git clone https://github.com/matlin100/send_email_for_all_gobs_list.git
+run git clone https://github.com/matlin100/send_email_for_all_gobs_list.git
 
-run in the project directory > pip install python-dotenv email-validator
+run pip install python-dotenv email-validator
 
 
 ## setup 
