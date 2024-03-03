@@ -1,4 +1,4 @@
-# # Project Title: Email Sender for Job Recruiting
+## Project Title: Email Sender for Job Recruiting
 
 This script is designed to send messages to a list of emails, specifically created for sending emails to lists of job recruiting contacts.
 
@@ -61,8 +61,7 @@ run the main file and it will send the emails to all
 it will print the list of successful emails 
 and unsuccessful emails 
 
-pdf
-##helpers 
+###helpers 
 if needed you can import from the helpers folder function to check if email is valid and remove duplicate emails 
 
 
